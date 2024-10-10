@@ -1,2 +1,2 @@
-# Flast_test
+# Flask_test
 Test project
